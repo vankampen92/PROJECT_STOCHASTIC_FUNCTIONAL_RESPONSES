@@ -35,7 +35,7 @@ When you git clone the repository on your machine, you should do it from your ho
 If graphic libraries have been correctly installed, this should be enough to make all makefiles work out of the box. Remember though you require to have also git cloned my CPGPLOT repository on your machine. To be clear, you should end up with two directories:
 
 * -$ ./CPGPLOT
-* -$ ./PROJECT_STOCHASTIC_DIFFUSION
+* -$ ./PROJECT_STOCHASTIC_FUNCTIONAL_RESPONSES
 
 both in you home directory.
 
@@ -44,7 +44,7 @@ both in you home directory.
 	+ #### 2. Install plplot library
 	+ #### 3. Install pgplot library
 	+ #### 4. git clone https://github.com/vankampen92/CPGPLOT
-	+ #### 5. git clone https://github.com/vankampen92/PROJECT_STOCHASTIC_DIFFUSION.git
+	+ #### 5. git clone https://github.com/vankampen92/PROJECT_STOCHASTIC_FUNCTIONAL_RESPONSES.git
 	+ #### 6. Tests:
 	In order to test if pgplot, plplot and CPGPLOT are correctly installed in your machine, you can expand the tar file PROJECT_CPGPLOT_EXAMPLES.tar, which is in the project root directory on your home directory. Then you will get the directory ~/PROJECT_CPGPLOT_EXAMPLES. In that directory, there is a simple example of how to use the CPGPLOT library. You build it by typing:
 
