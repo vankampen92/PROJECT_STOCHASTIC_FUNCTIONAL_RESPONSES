@@ -35,7 +35,7 @@ When you git clone the repository on your machine, you should do it from your ho
 If graphic libraries have been correctly installed, this should be enough to make all makefiles work out of the box. Remember though you require to have also git cloned my CPGPLOT repository on your machine. To be clear, you should end up with two directories:
 
 * -$ ./CPGPLOT
-* -$ ./PROJECT_STOCHASTIC_DIFFUSION
+* -$ ./PROJECT_STOCHASTIC_FUNCTIONAL_RESPONSES
 
 both in you home directory.
 
